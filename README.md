@@ -3,6 +3,8 @@
 
 <img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/902eb33f-e125-4fb4-bd94-a0395d43e21c" />  
 
+<img width="1281" height="1079" alt="image" src="https://github.com/user-attachments/assets/052927c5-7657-47ba-8669-4b0e97808d90" />    
+
 📌 Descripción general
 
 Este proyecto presenta una solución completa y ejecutable en Java, desarrollada para IntelliJ IDEA, que implementa un conteo de autos al estilo Python + NumPy, pero 100 % en Java.
